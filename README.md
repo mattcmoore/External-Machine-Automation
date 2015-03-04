@@ -1,0 +1,1 @@
+This project is intended to automate the process of adding new operations tracking data to an Excel based TV network operations tracking machine.
